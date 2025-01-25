@@ -25,7 +25,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <footer class="text-center py-4">
 <div class="container">
-      <p>&copy; 2024 Edgar Marcos</p>
+      <p>&copy; 2024 Edgar Marcos Gaspar</p>
       <p>Endereço | Termos de Uso | Política de Privacidade</p>
     </div>
   <div class="container">
